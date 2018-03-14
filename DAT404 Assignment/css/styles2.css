@@ -2,14 +2,14 @@ body
 {
   font-family: "Roboto", sans-serif;
   margin: 0px;
-  background-color: #111111;
+  background-color: #B2B09B;
 }
 
 .logo
 {
   width: 30%;
-margin-left: 35%;
-margin-top: 20px;
+  margin-left: 80px;
+  margin-top: 20px;
   z-index: 1;
   display: block;
 }
@@ -25,53 +25,53 @@ margin-top: 20px;
 {
   width: 500px;
   height: 250px;
-  background-color: #062F4F ;
+  background-color: #43AA8B ;
   margin: 60px;
   float: left;
   margin-left: 80px;
-  margin-top: 90px;
+  margin-top: 70px;
 }
 
 #firstBox:hover
 {
-  background-color:#07385E;
+  background-color:#254441;
 }
 
 #secondBox
 {
   width: 500px;
   height: 250px;
-  background-color: #813772 ;
+  background-color: #FF6F59 ;
   float: left;
   margin: 60px;
-  margin-top: 90px;
+  margin-top: 70px;
 }
 
 #secondBox:hover
 {
-  background-color: #943F83;
+  background-color: #DB504A;
 }
 
 #thirdBox
 {
   width: 500px;
   height: 250px;
-  background-color:#B82601 ;
+  background-color:#43AA8B ;
   float: left;
   margin: 60px;
-  margin-top: 90px;
+  margin-top: 70px;
 }
 
 #thirdBox:hover
 {
-  background-color: #CC2A01;
+  background-color: #254441;
 }
 
 #fourthBox
 {
   width: 500px;
   height: 250px;
-  background-color:#B82601 ;
+  background-color:#FF6F59 ;
   float: left;
   margin: 60px;
   margin-left: 80px;
@@ -81,14 +81,14 @@ margin-top: 20px;
 
 #fourthBox:hover
 {
-  background-color: #CC2A01;
+  background-color: #DB504A;
 }
 
 #fifthBox
 {
   width: 500px;
   height: 250px;
-  background-color:#062F4F ;
+  background-color:#43AA8B ;
   float: left;
   margin: 60px;
   margin-top: 80px;
@@ -96,14 +96,14 @@ margin-top: 20px;
 
 #fifthBox:hover
 {
-  background-color:#07385E;
+  background-color:#254441;
 }
 
 #sixBox
 {
   width: 500px;
   height: 250px;
-  background-color:#813772 ;
+  background-color:#FF6F59 ;
   float: left;
   margin: 60px;
   margin-top: 80px;
@@ -111,7 +111,7 @@ margin-top: 20px;
 
 #sixBox:hover
 {
-  background-color: #943F83;
+  background-color: #DB504A;
 }
 
 #bottomBar
