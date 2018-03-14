@@ -1,0 +1,9 @@
+BLACK: #000000 - behind logos or footers and headers.
+INK: #062F4F 
+POSY: #813772
+EMBERS: #B82601
+
+taken from Lush Digital.
+
+License for icons
+https://www.flaticon.com/packs/art-and-design-3
